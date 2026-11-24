@@ -1,4 +1,4 @@
-# Merkle PPT Skill
+# merkle_ppt
 
 **版本 0.2.0** | 面向可编辑 PowerPoint 的 Merkle 风格制作流程。
 
@@ -14,6 +14,10 @@
 6. 适量使用 ICON Library，依据内容灵活匹配；图示参考 Diagram Library。
 7. 按内容需要使用 Chrome 截图或生成图片，保持比例，不留图片占位；可编辑元素使用 PowerPoint 原生对象。
 8. 渲染并检查所有页面，验证文件结构，尽可能用 PowerPoint 检查是否需要修复。
+
+## 当前同步状态
+
+新版流程、模板、图标库、图示库和图标索引已上传。`DIVIDER IMAGES.pptx` 与 `Slide Library.pptx` 尚待上传；在补齐前，请使用本地完整版本。
 
 ## 必需文件
 
